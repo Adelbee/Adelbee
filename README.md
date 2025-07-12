@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adelbee
-- 👀 I’m interested in Food
+- 👀 I’m interested in Food Tech
 - 🌱 I’m currently learning Data science...
 - 💞️ I’m looking to collaborate on a project that solves the problem of unhealthy eating habits using Ai and machine learning models for nutritional and dietary recommendation, as well as encouraging health-conscious people to enjoy the process of being healthy by providing hedonistic but nutritional products based on insights from data.
 
